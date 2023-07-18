@@ -6,7 +6,7 @@ Python implementation of data analysis and machine learning programs using a use
 
 #### Clone the Repository
 ```bash
-$ git clone https://github.com/alexandreclem/SupervisedLearning-with-Python.git
+$ git clone https://github.com/alexandreclem/cars-price-prediction.git
 ```
 #### Dependencies
 - To install the dependencies, use the **requirements.txt** file present in the project folder.
